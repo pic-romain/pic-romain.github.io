@@ -11,9 +11,9 @@ title                    : "Romain Pic"
 title_separator          : "-"
 name                     : &name "Romain Pic"
 description              : &description "Romain Pic's Personal Website"
-url                      : https://rpic84.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pic-romain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rpic84/rpic84.github.io"
+repository               : "pic-romain/pic-romain.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -90,7 +90,7 @@ author:
   email            : "romain.pic@univ-fcomte.fr"
   researchgate     :  # https://www.researchgate.net/profile/Romain-Pic
   uri              :
-  github           : "rpic84"
+  github           : "pic-romain"
   linkedin         : "romain-pic"
   orcid            : #  https://orcid.org/0000-0001-9263-3742
   stackoverflow    : # https://stackoverflow.com/users/15013202/rolalaw
