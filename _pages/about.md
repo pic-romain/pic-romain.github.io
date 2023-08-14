@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD Student at [LMB](https://lmb.univ-fcomte.fr/) (CNRS/UBFC).
+I'm a third year PhD Student at [LMB](https://lmb.univ-fcomte.fr/) (CNRS/UBFC).
 
 My research is focused on combining Statistical Learning/Machine Learning and Extreme Value Theory to improve weather forecasting. I work with [Clément Dombry](https://cdombry.perso.math.cnrs.fr/) (LMB), [Philippe Naveau](https://www.lsce.ipsl.fr/Pisp/philippe.naveau/) (LSCE) and [Maxime Taillardat](https://www.umr-cnrm.fr/spip.php?article1211&lang=en) (CNRM/Météo France).
 
