@@ -16,5 +16,5 @@ Work conducted in collaboration with [Zeina Al Masry](https://www.femto-st.fr/fr
 This poster was presented at the [Journées Math Bio Santé 2022](https://jmbs2022.sciencesconf.org/) workshop.
 
 
-**Support of the presentation** : [Download](https://rpic84.github.io/files/Poster_DRF_ODX.pdf) [See on HAL](https://hal.science/hal-03894286)  
+**Support of the presentation** : [Download](https://pic-romain.github.io/files/Poster_DRF_ODX.pdf) [See on HAL](https://hal.science/hal-03894286)  
 **Associated preprint** : A new methodology to predict the oncotype scores based on clinico-pathological data with similar tumor profiles, Al Masry et al. (2023) [link](../publications/2023-02-01-ODX_DRF)
